@@ -1,6 +1,7 @@
 <div align="center">
 <picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px align="center"></picture> 
- <h3> About me</hr>
+ <h3>
+"Hi, I'm a Junior Backend Developer with a passion for creating server-side applications. 🚀⚙️"</hr>
 </div>
 
 <p align="center">
