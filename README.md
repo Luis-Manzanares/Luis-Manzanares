@@ -1,68 +1,70 @@
 <div align="center">
 
-# ✦ LUIS MANZANARES ✦
+# Luis Manzanares
 
-**Full Stack Developer & Web3 / Blockchain Specialist**
+**Full Stack Developer | Web3 & Arquitectura Blockchain**
 
 <br>
 
-Creating secure, scalable, and beautifully minimalist digital experiences. 
-Focusing on clean code, advanced cryptography, and premium user interfaces.
+Desarrollador enfocado en crear soluciones eficientes y escalables. Me gusta mantener el código limpio y construir desde interfaces modernas y fluidas hasta arquitecturas seguras y criptografía avanzada.
+
+<br>
+
+### 🛠️ Herramientas y Tecnologías
+
+<br>
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+<br>
+
+![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
 
 <br>
 
 ---
 
-### 💻 TECHNOLOGY STACK
-
-<br>
-
-![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-000000?style=for-the-badge&logo=angular&logoColor=white)
-![Solidity](https://img.shields.io/badge/Solidity-000000?style=for-the-badge&logo=solidity&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=white)
-
-<br>
-
----
-
-### 📂 FEATURED PROJECTS
+### 📂 Proyectos Destacados
 
 <br>
 
 | 🔐 **[Quantum Secure DApp](https://github.com/Luis-Manzanares/Quantum-secure-dapp)** | 🪙 **[Bitcoin HD Wallet CLI](https://github.com/Luis-Manzanares/Bitcoin-hd-wallet-cli)** |
 | :---: | :---: |
-| Full Stack Identity DApp integrating Post-Quantum Cryptography (Kyber/ML-KEM) on Ethereum. | Modular Node.js CLI Wallet for Bitcoin. Implements HD standards (BIP32/39/44) & AES-256. |
+| DApp de identidad en Ethereum que implementa criptografía post-cuántica (Kyber/ML-KEM). | Billetera modular de Bitcoin en CLI. Implementa los estándares HD (BIP32/39/44) y almacenamiento seguro. |
 | *Angular, Solidity, MongoDB* | *JavaScript, Cryptography, Node.js* |
 
 | 📊 **[Escrutinio 2027 Dashboard](https://github.com/Luis-Manzanares/escrutinio-2027-dashboard)** | 🛍️ **[Bouty PDP](https://github.com/Luis-Manzanares/bouty-pdp)** |
 | :---: | :---: |
-| Dashboard institucional de digitación masiva de actas. Bento Grid y accesible (WCAG AA). | Premium Fashion PDP. Zero frameworks, pure HTML5, CSS3, and Vanilla JS. |
+| Dashboard institucional para digitación masiva de actas. Diseño con Bento Grid y totalmente accesible. | Product Detail Page de moda premium. Construida desde cero sin frameworks, puro rendimiento. |
 | *Vanilla JS, CSS* | *Vanilla JS, HTML5, CSS3* |
 
 <br>
 
 ---
 
-### 📊 GITHUB ANALYTICS
+### 📈 Actividad Reciente
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Luis-Manzanares&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&text_color=a3a3a3&icon_color=ffffff&bg_color=00000000&locale=es" alt="Luis's GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=Luis-Manzanares&show_icons=true&theme=radical&hide_border=true&locale=es" alt="Estadísticas de GitHub" />
 
 <br>
 
 ---
 
-### 🤝 LET'S CONNECT
+### 📬 Contacto
 
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tu-perfil)
-[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu-correo@ejemplo.com)
-
-<br>
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tu-perfil)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu-correo@ejemplo.com)
 
 </div>
