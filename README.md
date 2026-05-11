@@ -1,75 +1,57 @@
 <div align="center">
 
-# ¡Hola! Soy Luis Manzanares <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=24&pause=1000&color=E02C73&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Especialista+en+Web3+y+Blockchain;Arquitecturas+Seguras+y+Escalables;Apasionado+por+el+C%C3%B3digo+Limpio" alt="Typing SVG" /></a>
-
-<br>
-
-Desarrollador enfocado en crear soluciones eficientes y escalables. Me gusta mantener el código limpio y construir desde interfaces modernas y fluidas hasta arquitecturas seguras y criptografía avanzada.
+# Luis Manzanares
+**Software Engineer & Full Stack Developer**
 
 <br>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=20&pause=1000&color=333333&center=true&vCenter=true&width=600&lines=Desarrollo+Full+Stack+(React,+Laravel);Automatización+Avanzada+(Python,+Playwright);Arquitecturas+Seguras+y+Web3;Pasión+por+el+Rendimiento+y+Código+Limpio" alt="Typing SVG" />
+</a>
 
-### 🛠️ Herramientas y Tecnologías
+<br><br>
+
+Ingeniero de software enfocado en construir soluciones eficientes, escalables y visualmente impecables. Especializado en el ecosistema web moderno, automatización de procesos y arquitecturas descentralizadas. Defensor del minimalismo técnico y el rendimiento absoluto.
+
+---
+
+### Core Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)
+<br>
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+
+---
+
+### Proyectos Destacados
+
+| [Escrutinio 2027 Dashboard](https://github.com/Luis-Manzanares/escrutinio-2027-dashboard) | [Bouty PDP](https://github.com/Luis-Manzanares/bouty-pdp) |
+| :--- | :--- |
+| Sistema institucional para digitación masiva de actas. Diseño asimétrico premium y accesible, renderizado en tiempo real. | Product Detail Page de e-commerce de lujo. Control de estado complejo, carrito off-canvas y animaciones ultra fluidas. |
+| *React, Vite, TypeScript, TailwindCSS* | *React, Vite, TypeScript, Lucide* |
+
+| [Quantum Secure DApp](https://github.com/Luis-Manzanares/Quantum-secure-dapp) | [Bitcoin HD Wallet CLI](https://github.com/Luis-Manzanares/Bitcoin-hd-wallet-cli) |
+| :--- | :--- |
+| DApp de identidad en Ethereum que implementa criptografía post-cuántica (Kyber/ML-KEM) para resistencia futura. | Billetera modular de Bitcoin en línea de comandos. Implementa los estándares HD (BIP32/39/44) y almacenamiento seguro. |
+| *Solidity, Angular, MongoDB* | *Node.js, Cryptography, JS* |
+
+---
+
+### Métricas de Rendimiento
 
 <br>
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+<img src="https://github-readme-stats.vercel.app/api?username=Luis-Manzanares&show_icons=true&theme=transparent&hide_border=true&title_color=333333&icon_color=333333&text_color=555555" alt="Estadísticas de GitHub" width="410"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luis-Manzanares&layout=compact&theme=transparent&hide_border=true&title_color=333333&text_color=555555" alt="Top Languages" width="300"/>
 
-<br>
+<br><br>
 
-![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
-
-<br>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-### 📂 Proyectos Destacados
-
-<br>
-
-| 🔐 **[Quantum Secure DApp](https://github.com/Luis-Manzanares/Quantum-secure-dapp)** | 🪙 **[Bitcoin HD Wallet CLI](https://github.com/Luis-Manzanares/Bitcoin-hd-wallet-cli)** |
-| :---: | :---: |
-| DApp de identidad en Ethereum que implementa criptografía post-cuántica (Kyber/ML-KEM). | Billetera modular de Bitcoin en CLI. Implementa los estándares HD (BIP32/39/44) y almacenamiento seguro. |
-| *Angular, Solidity, MongoDB* | *JavaScript, Cryptography, Node.js* |
-
-| 📊 **[Escrutinio 2027 Dashboard](https://github.com/Luis-Manzanares/escrutinio-2027-dashboard)** | 🛍️ **[Bouty PDP](https://github.com/Luis-Manzanares/bouty-pdp)** |
-| :---: | :---: |
-| Dashboard institucional para digitación masiva de actas. Diseño con Bento Grid y totalmente accesible. | Product Detail Page de moda premium. Construida desde cero sin frameworks, puro rendimiento. |
-| *Vanilla JS, CSS* | *Vanilla JS, HTML5, CSS3* |
-
-<br>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-### 📈 Actividad Reciente
-
-<br>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Luis-Manzanares&show_icons=true&theme=radical&hide_border=true&locale=es" alt="Estadísticas de GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luis-Manzanares&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</p>
-
-<br>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-### 📬 Contacto
-
-<br>
-
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tu-perfil)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu-correo@ejemplo.com)
+[LinkedIn](https://linkedin.com/in/luis-manzanares) &nbsp;&middot;&nbsp; [GitHub](https://github.com/Luis-Manzanares)
 
 </div>
