@@ -43,15 +43,8 @@ Ingeniero de software enfocado en construir soluciones eficientes, escalables y 
 
 ---
 
-### Métricas de Rendimiento
-
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Luis-Manzanares&show_icons=true&theme=transparent&hide_border=true&title_color=333333&icon_color=333333&text_color=555555" alt="Estadísticas de GitHub" width="410"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luis-Manzanares&layout=compact&theme=transparent&hide_border=true&title_color=333333&text_color=555555" alt="Top Languages" width="300"/>
-
-<br><br>
-
-[LinkedIn](https://linkedin.com/in/luis-manzanares) &nbsp;&middot;&nbsp; [GitHub](https://github.com/Luis-Manzanares)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-manzanares-a692a529b/)
 
 </div>
