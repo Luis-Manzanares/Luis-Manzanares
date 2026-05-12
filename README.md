@@ -1,13 +1,12 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Luis%20Manzanares&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Blockchain%20%7C%20Web3&descAlignY=60&descSize=20&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,40:0d2b0d,80:1a4a1a,100:0a0a0a&height=200&section=header&text=Luis%20Manzanares&fontSize=60&fontColor=FFD700&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Blockchain%20%7C%20Web3&descAlignY=60&descSize=20&descColor=a3d977&animation=fadeIn" />
 
 <a href="https://github.com/Luis-Manzanares">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+the+future+with+code;Laravel+%7C+Python+%7C+JavaScript;Blockchain+%26+Web3+Developer;Post-Quantum+Cryptography+Explorer;Open+to+freelance+opportunities" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1200&color=FFD700&center=true&vCenter=true&width=700&lines=I+never+stop+moving+forward.+-+Asta;Full+Stack+Developer+%7C+Laravel+%7C+Python;Blockchain+%26+Web3+Engineer;Post-Quantum+Cryptography+Explorer;Open+to+freelance+%26+remote+opportunities" alt="Typing SVG" />
 </a>
 
 <br/>
-
 <p>
   <a href="https://www.linkedin.com/in/luis-manzanares-a692a529b/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -24,22 +23,28 @@
 
 ---
 
+> *"It doesn't matter where you come from or what you lack - with enough grit and hard work, you can overcome any limit."*
+> - Black Clover
+
+---
+
 ## About Me
 
 ```typescript
 const luis = {
-  name:       "Luis Enrique Manzanares Vásquez",
+  name:       "Luis Enrique Manzanares Vasquez",
   location:   "San Salvador, El Salvador",
   role:       "Full Stack Developer & Blockchain Engineer",
-  education:  "Ing. Desarrollo de Software — Universidad Francisco Gavidia",
+  education:  "Ing. Desarrollo de Software - Universidad Francisco Gavidia",
   focus:      ["Web Applications", "Blockchain/Web3", "Python Automation", "API Design"],
   available:  true, // Open to freelance & remote work
+  grimoire:   "five-leaf clover", // no magic, just hard work
 };
 ```
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Luis-Manzanares&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=C9D1D9&rank_icon=github" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Luis-Manzanares&theme=midnight-purple&hide_border=true&background=0D1117&stroke=A78BFA&ring=A78BFA&fire=f97316&currStreakLabel=A78BFA" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Luis-Manzanares&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0a0a0a&title_color=FFD700&icon_color=39d353&text_color=a3d977&rank_icon=github" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Luis-Manzanares&theme=dark&hide_border=true&background=0a0a0a&stroke=FFD700&ring=FFD700&fire=ff6b35&currStreakLabel=FFD700&sideLabels=a3d977&dates=a3d977" height="165" />
 </div>
 
 ---
@@ -62,6 +67,9 @@ const luis = {
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+</div>
+
+<div align="center">
 
 **Blockchain & Web3**
 
@@ -75,12 +83,6 @@ const luis = {
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-**Automation & Testing**
-
-![Playwright](https://img.shields.io/badge/Playwright-45ba4b?style=for-the-badge&logo=playwright&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-
 </div>
 
 ---
@@ -91,8 +93,8 @@ const luis = {
 
 | Project | Description | Stack | Live |
 |:---|:---|:---:|:---:|
-| **[Quantum-Secure DApp](https://github.com/Luis-Manzanares/Quantum-secure-dapp)** | Full Stack Identity DApp with Post-Quantum Cryptography (Kyber/ML-KEM) on Ethereum | Angular · Solidity · MongoDB | — |
-| **[Bitcoin HD Wallet CLI](https://github.com/Luis-Manzanares/Bitcoin-hd-wallet-cli)** | Modular Node.js CLI wallet implementing BIP32/39/44 standards with AES-256 local storage | Node.js · JavaScript | — |
+| **[Quantum-Secure DApp](https://github.com/Luis-Manzanares/Quantum-secure-dapp)** | Full Stack Identity DApp with Post-Quantum Cryptography (Kyber/ML-KEM) on Ethereum | Angular · Solidity · MongoDB | - |
+| **[Bitcoin HD Wallet CLI](https://github.com/Luis-Manzanares/Bitcoin-hd-wallet-cli)** | Modular Node.js CLI wallet implementing BIP32/39/44 standards with AES-256 local storage | Node.js · JavaScript | - |
 | **[Escrutinio 2027 Dashboard](https://github.com/Luis-Manzanares/escrutinio-2027-dashboard)** | Institutional electoral data entry dashboard with Bento Grid adaptive design | React · Vite · TypeScript | [Live](https://luis-manzanares.github.io/escrutinio-2027-dashboard/) |
 | **[Bouty PDP](https://github.com/Luis-Manzanares/bouty-pdp)** | Premium Fashion E-Commerce Product Detail Page with fluid animations | React · Vite · TypeScript | [Live](https://luis-manzanares.github.io/bouty-pdp/) |
 
@@ -103,7 +105,7 @@ const luis = {
 ## Languages
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luis-Manzanares&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&langs_count=8" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luis-Manzanares&layout=compact&hide_border=true&bg_color=0a0a0a&title_color=FFD700&text_color=a3d977&langs_count=8" />
 </div>
 
 ---
@@ -119,15 +121,15 @@ const luis = {
 ## Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Luis-Manzanares&theme=react-dark&hide_border=true&bg_color=0D1117&color=A78BFA&line=7c3aed&point=f97316&area=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Luis-Manzanares&theme=react-dark&hide_border=true&bg_color=0a0a0a&color=FFD700&line=39d353&point=FFD700&area=true" width="100%" />
 </div>
 
 ---
 
 <div align="center">
 
-**Available for freelance work — [Hire me on Upwork](https://www.upwork.com) · [Connect on LinkedIn](https://www.linkedin.com/in/luis-manzanares-a692a529b/)**
+**Available for freelance work - [Hire me on Upwork](https://www.upwork.com) - [Connect on LinkedIn](https://www.linkedin.com/in/luis-manzanares-a692a529b/)**
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,40:0d2b0d,80:1a4a1a,100:0a0a0a&height=100&section=footer" />
 
 </div>
